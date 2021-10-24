@@ -9,13 +9,11 @@ p {
 
 #catFace {
     display: block;
-    width: 438px;
-    height: 385px;
     margin: 100px auto;
 }
 
 #titles {
-    margin: 100px 0 100px 0;
+    margin: 100px 0;
     text-align: center;
     font-family: 'Montserrat', sans-serif;
 }
