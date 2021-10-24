@@ -1,0 +1,92 @@
+body {
+    background: black;
+}
+
+p {
+    color: white;
+}
+
+
+#catFace {
+    display: block;
+    margin: 100px auto;
+}
+
+#titles {
+    margin: 100px 0 100px 0;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+}
+
+#title {
+    font-size: 3em;
+    margin-block-end: 0;
+}
+
+#slogan {
+    font-size: 2em;
+    margin-block-start: 0;
+}
+
+#content {
+    text-align: center;
+}
+
+#socials {
+    text-align: center;
+    font-size: 100px;
+}
+
+#socials a {
+    color: white;
+}
+
+
+#github:hover {
+    color: #FFD700;
+}
+
+#linkedin:hover {
+    color: #2867B2;
+}
+
+#twitter:hover {
+    color: #1DA1F2;
+}
+
+#youtube:hover {
+    color: #FF0000;
+}
+
+/* For mobile devices */
+@media (max-width: 623px) {
+
+    #catFace {
+        margin: auto auto;
+        width: 75%;
+    }
+
+    #title {
+        font-size: 250%;
+        margin-block-end: 0;
+    }
+
+    #titles {
+        margin-top: 25%;
+    }
+
+    #title {
+        margin-top: 0;
+    }
+
+    #slogan {
+        font-size: 100%;
+        margin-block-start: 0;
+    }
+
+    #socials {
+        text-align: center;
+        font-size: 300%;
+    }
+}
+
