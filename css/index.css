@@ -9,6 +9,8 @@ p {
 
 #catFace {
     display: block;
+    width: 438px;
+    height: 385px;
     margin: 100px auto;
 }
 
@@ -64,6 +66,7 @@ p {
     #catFace {
         margin: auto auto;
         width: 75%;
+        height: 75%;
     }
 
     #title {
