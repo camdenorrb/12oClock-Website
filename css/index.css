@@ -21,11 +21,13 @@ p {
 #title {
     font-size: 3em;
     margin-block-end: 0;
+    color: white;
 }
 
 #slogan {
     font-size: 2em;
     margin-block-start: 0;
+    color: white;
 }
 
 #content {
